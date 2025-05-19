@@ -8,10 +8,8 @@ O objetivo é criar uma **interface gráfica** para a construção e gerenciamen
 A aplicação permite:
 
 - ✅ **Cadastrar** veículos
-- 🔍 **Consultar** um único veículo pela placa
-- 📋 **Visualizar** todos os veículos cadastrados
-- ❌ **Deletar** um único veículo a partir da placa
-- 🗑️ **Deletar** todos os veículos
+- 🔍 **Consultar/Excluir** um único veículo pela placa
+- 📋 **Imprimir/Excluir** todos os veículos cadastrados
 
 ## 🧰 Tecnologias Utilizadas
 
